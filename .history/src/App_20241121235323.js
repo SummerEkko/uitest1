@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import StatusPage from "./pages/StatusPage.tsx"; // 确保路径和后缀正确
+import StatusPage from "./pages/StatusPage"; // 确保路径和后缀正确
 import OrderDetailsPage from "./pages/OrderDetailsPage";
 
 function App() {
